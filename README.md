@@ -1,2 +1,3 @@
-# solidity-babyjubjub
-A babyjubjub elliptic curve implementation in solidity
+# babyjubjub-solidity
+
+A fork of https://github.com/yondonfu/sol-baby-jubjub with multiple changes.
